@@ -1,0 +1,16 @@
+{
+  "name": "aws-s3-bucket",
+  "version": "1.0.0",
+  "description": "test file for aws-s3-bucket",
+  "main": "s3bucket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aish",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1243.0",
+    "express": "^4.18.2",
+    "node": "^19.0.0"
+  }
+}
